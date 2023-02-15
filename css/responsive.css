@@ -456,11 +456,7 @@
         margin: 5px 0 0 15px;
     }
 
-    /* paayment */
-    .payment_header h2 {
-        margin-bottom: 30px;
-        font-size: 32px;
-    }
+   
 }
 @media(max-width:767.98px){
     /* navbar css */
@@ -517,6 +513,10 @@
      /* emi */
      .emi_pff{
         margin-left: 0;
+    }
+  #payment {
+        background-color: var(--secondary-color);
+        padding: 60px 0 90px 0;
     }
 }
 @media(max-width:575.98px){
